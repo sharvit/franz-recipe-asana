@@ -1,0 +1,17 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "version": "1.0.0",
+  "description": "Asana is a web and mobile application designed to help teams organize, track, and manage their work.",
+  "main": "index.js",
+  "author": "Avi Sharvit <sharvita@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/sharvit/franz-recipe-asana",
+  "config": {
+    "serviceURL": "https://app.asana.com",
+    "hasTeamID": false,
+    "urlInputSuffix": false,
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
